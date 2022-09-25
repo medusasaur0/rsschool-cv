@@ -12,7 +12,9 @@ I'm a 17 years old school student studyin in 11 grade. Before taking up Rs-Schoo
 * Version control: GitHub
 
 ### Code examples:
+    def multiply(a, b):
+        return a * b
 
 ### Languages:
 * Russian - native
-* English - С1
+* English - B2
